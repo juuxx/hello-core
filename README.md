@@ -8,10 +8,10 @@
 
 #### ✅ 강의 듣고 따라 하기
 > 기술 스택
-* jdk 11
-* gradle 
-* springboot 
-* 처음엔 순수 자바로 spring framework 구현하기
+>> * jdk 11
+>> * gradle 
+>> * springboot 
+>> * 처음엔 순수 자바로 spring framework 구현하기
 
 
 
